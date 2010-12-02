@@ -76,6 +76,15 @@ package
 			scaleDnButton.y = scaleUpButton.y;
 			addChild(scaleDnButton);
 
+			// Drag to add
+			var dragText:TextField = new TextField();
+			dragText.width = 250;
+			dragText.text = "Drag a Square.";
+			dragText.setTextFormat(myFormat);
+			dragText.x = scaleDnButton.x - dragText.width;
+			dragText.y = scaleDnButton.y; 
+			addChild(dragText);
+			
 			// show the window contents
 			stage.nativeWindow.visible = true;
 			
