@@ -1,0 +1,11 @@
+<qnx>
+  <initialWindow>
+    <systemChrome>none</systemChrome>
+    <transparent>true</transparent>
+  </initialWindow>
+  <publisher>Futurescale Inc.</publisher>
+  <category>core.internet</category>
+  <icon>
+  	<image>hello-playbook.png</image>
+  </icon>
+</qnx>
