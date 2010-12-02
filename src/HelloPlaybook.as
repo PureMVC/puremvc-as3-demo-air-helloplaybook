@@ -103,10 +103,6 @@ package
 		private function scaleDown(event:MouseEvent):void{
 			stage.dispatchEvent(new Event(SCALE_DN,true));
 		}
-	
-		
-		
-		
 		
 	}
 }
