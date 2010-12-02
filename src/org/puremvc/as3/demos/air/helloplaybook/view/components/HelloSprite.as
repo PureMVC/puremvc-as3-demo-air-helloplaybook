@@ -22,8 +22,8 @@ package org.puremvc.as3.demos.air.helloplaybook.view.components
         public var color:uint = 0x0000FF;
 		
 		// boundaries
-		public var xBound:uint = 400;
-		public var yBound:uint = 400;
+		public var xBound:uint = 1024;
+		public var yBound:uint = 600;
 		
 		// xy Location
 		public var xLoc:uint = 175;
@@ -63,6 +63,7 @@ package org.puremvc.as3.demos.air.helloplaybook.view.components
 
 		// User has pressed the mouse
         private function handleMouseDown(event:MouseEvent):void {
+			event.stopImmediatePropagation();
 			timer.reset();
 			child.startDrag();
 			child.addEventListener(MouseEvent.MOUSE_MOVE, handleMouseMove);
