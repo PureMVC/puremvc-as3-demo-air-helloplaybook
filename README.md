@@ -40,7 +40,7 @@ A lonely little blue box appears, moving in a black room. Interact with it.
 ## License
 * PureMVC AS3 / AIR / Blackberry Playbook Demo - HelloPlaybook - Copyright © 2010, Cliff Hall
 * PureMVC - Copyright © 2007-2008 Futurescale, Inc.
-All rights reserved.
+* All rights reserved.
 
 * Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
 
