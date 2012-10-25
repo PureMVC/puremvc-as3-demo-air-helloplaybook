@@ -38,8 +38,8 @@ A lonely little blue box appears, moving in a black room. Interact with it.
 * Scale them up until they all look like a jigging mass of Jello(tm). Then scroll farther, most wrap around and become small, but some stay large. Let them decay.
 
 ## License
-* PureMVC AS3 / AIR / Blackberry Playbook Demo - HelloPlaybook - Copyright(c) 2010, Cliff Hall
-* PureMVC - Copyright(c) 2007-2008 Futurescale, Inc.
+* PureMVC AS3 / AIR / Blackberry Playbook Demo - HelloPlaybook - Copyright © 2010, Cliff Hall
+* PureMVC - Copyright © 2007-2008 Futurescale, Inc.
 All rights reserved.
 
 * Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
